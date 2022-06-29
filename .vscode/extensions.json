@@ -1,0 +1,12 @@
+{
+    // 推奨
+    "recommendations": [
+        // フォーマッター
+        "EditorConfig.EditorConfig",
+        "esbenp.prettier-vscode",
+        // リンター
+        "dbaeumer.vscode-eslint",
+    ],
+    // 非推奨
+    "unwantedRecommendations": [],
+}
